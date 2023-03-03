@@ -1,0 +1,50 @@
+body{
+    background: url(./images/calBack.jpg);
+}
+#Heading{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Oleo Script', cursive;
+    font-style: italic;
+    color: rgb(12, 28, 42);
+}
+.container1{
+    background-color: rgb(0, 0, 0);
+    padding-top: 10px;
+    width: 310px;
+    height: 460px;
+    margin: 120px 600px 100px;
+    border-radius: 10px;
+}
+#screen{
+    height: 135px;
+    background-color: white;
+    margin: 10px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    border-radius: 3px;
+    text-align: center;
+    border-radius: 10px;
+}
+#sub-container1{
+    margin-left: 15px;
+    margin-right: 0px;
+}
+.rows{
+    display: flex;
+    color: rgb(67, 3, 3)
+}
+.buttons{
+    text-align: center;
+    background-color: rgb(255, 151, 15);
+    margin-right: 20px;
+    margin-bottom: 10px;
+    width: 55px;
+    height: 50px;
+    font-size:x-large;
+    border-radius: 10px;
+}
+#button-0{
+    width: 136px;
+}
